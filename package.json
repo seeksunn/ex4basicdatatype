@@ -1,0 +1,16 @@
+{
+  "name": "ex4basicdatatype",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ganache-cli": "^6.11.0",
+    "mocha": "^8.1.3",
+    "web3": "^1.3.0"
+  }
+}
